@@ -16,8 +16,8 @@ To write a C function to perform post order traversal of a binary tree.
 ```
 /*
 Program to perform post order traversal of a binary tree.
-Developed by: 
-RegisterNumber:  
+Developed by: PRADEEP E
+RegisterNumber:  212223230149
 */
 ```
 ```
